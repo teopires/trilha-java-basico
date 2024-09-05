@@ -31,7 +31,8 @@ Por favor, digite o saldo inicial:
 
 Saída do Programa:
 
-Olá  "titular", obrigado por criar uma conta em nosso banco, sua agência é "agencia", conta "conta" e seu saldo "saldo" já está disponível para saque.
+Olá  "titular", obrigado por criar uma conta em nosso banco, sua agência é "agencia", conta "conta"
+e seu saldo "saldo" já está disponível para saque.
 
 
 Requisitos
