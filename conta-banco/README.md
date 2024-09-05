@@ -1,18 +1,41 @@
-## Getting Started
+# Programa de Entrada de Dados via Terminal
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este é um simples programa em Java que permite ao usuário inserir dados via terminal. O programa solicita ao usuário várias informações e, em seguida, exibe essas informações.
 
-## Folder Structure
+## Funcionalidades
 
-The workspace contains two folders by default, where:
+- Solicita ao usuário o número da agência.
+- Solicita ao usuário o número da conta.
+- Solicita ao usuário o nome do titular.
+- Solicita ao usuário o saldo inicial.
+- Exibe as informações inseridas pelo usuário.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Como Usar
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+1. Clone este repositório para sua máquina local.
+2. Compile o programa usando o comando `javac Main.java`.
+3. Execute o programa usando o comando `java Main`.
+4. Siga as instruções no terminal para inserir os dados solicitados.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Exemplo de Uso
 
-## Dependency Management
+```sh
+Por favor, digite o número da Agência:
+1021
+Por favor, digite o número da Conta:
+123456
+Por favor, digite o nome do Titular:
+João Silva
+Por favor, digite o saldo inicial:
+1500.00
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Informações inseridas:
+Agência: 1021
+Conta: 123456
+Titular: João Silva
+Saldo Inicial: 1500.0
+
+Requisitos
+Java JDK 8 ou superior
+Autor
+Seu Nome
