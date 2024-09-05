@@ -38,4 +38,4 @@ Saldo Inicial: 1500.0
 Requisitos
 Java JDK 8 ou superior
 Autor
-Seu Nome
+Teo Pires Marques
