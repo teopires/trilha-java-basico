@@ -29,11 +29,10 @@ João Silva
 Por favor, digite o saldo inicial:
 1500.00
 
-Informações inseridas:
-Agência: 1021
-Conta: 123456
-Titular: João Silva
-Saldo Inicial: 1500.0
+Saída do Programa:
+
+Olá  "titular", obrigado por criar uma conta em nosso banco, sua agência é "agencia", conta "conta" e seu saldo "saldo" já está disponível para saque.
+
 
 Requisitos
 Java JDK 8 ou superior
